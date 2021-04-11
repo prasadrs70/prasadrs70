@@ -1,4 +1,4 @@
-- 👋 I’m currently working on Java and AWS  
+- 👋 I’m currently working on Java, Angular and AWS  
 - 👀 I’m interested in Angular developement 
 - 🌱 I’m currently learning services in AWS 
 - 📫 How to reach me ..
